@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-19 16:22+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: .\templates\layout.html:37
+msgid "About"
+msgstr "Hakkimizda"
+
+#: .\templates\layout.html:38 .\templates\layout.html:160
+msgid "Contact"
+msgstr "Iletisim"
+
+#: .\templates\layout.html:39
+msgid "Help"
+msgstr "Yardim"
+
+#: .\templates\layout.html:40
+msgid "FAQs"
+msgstr "En cok sorulan sorular"
+
+#: .\templates\layout.html:46 .\templates\layout.html:210
+msgid "My Account"
+msgstr "Benim Hesap"
+
+#: .\templates\layout.html:49
+msgid "Logout"
+msgstr "cikis"
+
+#: .\templates\layout.html:51
+msgid "Login"
+msgstr "Giris"
+
+#: .\templates\layout.html:52
+msgid "Register"
+msgstr "Kayit"
+
+#: .\templates\layout.html:108
+msgid "Customer Service"
+msgstr "Musteri Hizmetleri"
+
+#: .\templates\layout.html:121
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: .\templates\layout.html:129
+msgid "Men's Dresses"
+msgstr "Erkek kiyafetleri"
+
+#: .\templates\layout.html:130
+msgid "Women's Dresses"
+msgstr "Kadin kiyafetleri"
+
+#: .\templates\layout.html:131
+msgid "Baby's Dresses"
+msgstr "bebek kiyafetleri"
+
+#: .\templates\layout.html:134
+msgid "Shirts"
+msgstr "tisortler"
+
+#: .\templates\layout.html:135
+msgid "Jeans"
+msgstr "Cinsler"
+
+#: .\templates\layout.html:136
+msgid "Swimwear"
+msgstr "Deniz kiyafetleri"
+
+#: .\templates\layout.html:137
+msgid "Sleepwear"
+msgstr "Pijamalar"
+
+#: .\templates\layout.html:138
+msgid "Sportswear"
+msgstr "Spor giyimleri"
+
+#: .\templates\layout.html:139
+msgid "Jumpsuits"
+msgstr "Tulumlar"
+
+#: .\templates\layout.html:140
+msgid "Blazers"
+msgstr "dugun Ceketleri"
+
+#: .\templates\layout.html:141
+msgid "Jackets"
+msgstr "Ceketler"
+
+#: .\templates\layout.html:142
+msgid "Shoes"
+msgstr "Ayakkabilae"
+
+#: .\templates\layout.html:157 .\templates\layout.html:212
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: .\templates\layout.html:158
+msgid "Shop"
+msgstr "Alis-veris"
+
+#: .\templates\layout.html:159 .\templates\layout.html:203
+#: .\templates\layout.html:214
+msgid "Shop Detail"
+msgstr "Detayli alis veris"
+
+#: .\templates\layout.html:190
+msgid "Get In Touch"
+msgstr "Dokun"
+
+#: .\templates\layout.html:199
+msgid "Quick Shop"
+msgstr "hizli alis veris"
+
+#: .\templates\layout.html:201
+msgid ">Home"
+msgstr "Ana sayfa"
+
+#: .\templates\layout.html:202 .\templates\layout.html:213
+msgid "Our Shop"
+msgstr "Bizim Alis veris"
+
+#: .\templates\layout.html:204 .\templates\layout.html:215
+msgid "Shopping Cart"
+msgstr "Alis veris karti"
+
+#: .\templates\layout.html:205 .\templates\layout.html:216
+msgid "Checkout"
+msgstr "Odeme"
+
+#: .\templates\layout.html:206 .\templates\layout.html:217
+msgid "Contact Us"
+msgstr "Bizimle iletisim"
+
+#: .\templates\layout.html:221
+msgid "Newsletter"
+msgstr "Haber mektubu"
+
+#: .\templates\layout.html:227
+msgid "Sign Up"
+msgstr "Kayit"
+
+#: .\templates\layout.html:231
+msgid "Follow Us"
+msgstr "Bizi izle"
